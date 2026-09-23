@@ -171,7 +171,7 @@ python delivery_system.py -i test_cases/test_case_3.json -o report_test_3.json
 
 Repeat through `test_case_10.json`.
 
-Controll flow:
+##Control flow:
               data.json
                   │
                   ▼
